@@ -1,0 +1,19 @@
+.brands-container {
+  display: flex;
+  width: 100%;
+  padding: 1.4rem 0rem;
+  justify-content: space-around;
+  align-items: center;
+  margin: 2.5rem 0rem;
+  background-color: #FFF;
+
+  .brand-image-container {
+    display: flex;
+    height: 80px;
+
+    .brand-image {
+      width: 100px;
+      height: 80px;
+    }
+  }
+}
